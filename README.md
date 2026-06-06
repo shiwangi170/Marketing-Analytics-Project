@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Marketing Analytics & Customer Intelligence System
 
 ---
@@ -135,3 +136,6 @@ Marketing-Analytics-Project/
 # Author
 
 Shiwangi Gupta
+=======
+# Marketing-Analytics-Project
+>>>>>>> 7ca7bc32722568fad5f9ebe845179ed86b45f4d5
